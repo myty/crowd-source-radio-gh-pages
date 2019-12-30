@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/crowd-source-radio-gh-pages/precache-manifest.767d4578988489d4d7451dad35244330.js"
+  "/crowd-source-radio-gh-pages/precache-manifest.1cb9958bb8b9d10101caaada1a4fac37.js"
 );
 
 self.addEventListener('message', (event) => {
